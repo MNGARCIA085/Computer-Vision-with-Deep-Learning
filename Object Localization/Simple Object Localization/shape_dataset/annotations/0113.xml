@@ -1,0 +1,1 @@
+<annotation><folder>images</folder><filename>0113.png</filename><path>images/0113.png</path><size><width>64</width><height>64</height><depth>3</depth></size><segmented>0</segmented><object><name>square</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>25</xmin><ymin>16</ymin><xmax>45</xmax><ymax>36</ymax></bndbox></object></annotation>
